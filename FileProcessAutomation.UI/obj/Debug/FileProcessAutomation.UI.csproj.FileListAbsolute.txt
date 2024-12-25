@@ -1,0 +1,9 @@
+C:\Arul\Source\FileProcessAutomation\FileProcessAutomation.UI\bin\Debug\FileProcessAutomation.UI.exe.config
+C:\Arul\Source\FileProcessAutomation\FileProcessAutomation.UI\bin\Debug\FileProcessAutomation.UI.exe
+C:\Arul\Source\FileProcessAutomation\FileProcessAutomation.UI\bin\Debug\FileProcessAutomation.UI.pdb
+C:\Arul\Source\FileProcessAutomation\FileProcessAutomation.UI\obj\Debug\FileProcessAutomation.UI.csproj.AssemblyReference.cache
+C:\Arul\Source\FileProcessAutomation\FileProcessAutomation.UI\obj\Debug\FileProcessAutomation.UI.Properties.Resources.resources
+C:\Arul\Source\FileProcessAutomation\FileProcessAutomation.UI\obj\Debug\FileProcessAutomation.UI.csproj.GenerateResource.cache
+C:\Arul\Source\FileProcessAutomation\FileProcessAutomation.UI\obj\Debug\FileProcessAutomation.UI.csproj.CoreCompileInputs.cache
+C:\Arul\Source\FileProcessAutomation\FileProcessAutomation.UI\obj\Debug\FileProcessAutomation.UI.exe
+C:\Arul\Source\FileProcessAutomation\FileProcessAutomation.UI\obj\Debug\FileProcessAutomation.UI.pdb

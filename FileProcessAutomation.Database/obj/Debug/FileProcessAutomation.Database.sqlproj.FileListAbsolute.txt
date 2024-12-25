@@ -1,0 +1,10 @@
+C:\Arul\Source\FileProcessAutomation\FileProcessAutomation.Database\bin\Debug\FileProcessAutomation.Database.dacpac
+C:\Arul\Source\FileProcessAutomation\FileProcessAutomation.Database\bin\Debug\FileProcessAutomation.Database.dll
+C:\Arul\Source\FileProcessAutomation\FileProcessAutomation.Database\bin\Debug\FileProcessAutomation.Database.pdb
+C:\Arul\Source\FileProcessAutomation\FileProcessAutomation.Database\obj\Debug\FileProcessAutomation.Database.sqlproj.AssemblyReference.cache
+C:\Arul\Source\FileProcessAutomation\FileProcessAutomation.Database\obj\Debug\Model.xml
+C:\Arul\Source\FileProcessAutomation\FileProcessAutomation.Database\obj\Debug\refactor.xml
+C:\Arul\Source\FileProcessAutomation\FileProcessAutomation.Database\obj\Debug\postdeploy.sql
+C:\Arul\Source\FileProcessAutomation\FileProcessAutomation.Database\obj\Debug\predeploy.sql
+C:\Arul\Source\FileProcessAutomation\FileProcessAutomation.Database\obj\Debug\FileProcessAutomation.Database.dll
+C:\Arul\Source\FileProcessAutomation\FileProcessAutomation.Database\obj\Debug\FileProcessAutomation.Database.pdb

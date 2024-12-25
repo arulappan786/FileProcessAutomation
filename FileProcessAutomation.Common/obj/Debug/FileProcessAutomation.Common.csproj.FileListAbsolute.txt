@@ -1,0 +1,6 @@
+C:\Arul\Source\FileProcessAutomation\FileProcessAutomation.Common\bin\Debug\FileProcessAutomation.Common.dll
+C:\Arul\Source\FileProcessAutomation\FileProcessAutomation.Common\bin\Debug\FileProcessAutomation.Common.pdb
+C:\Arul\Source\FileProcessAutomation\FileProcessAutomation.Common\obj\Debug\FileProcessAutomation.Common.csproj.AssemblyReference.cache
+C:\Arul\Source\FileProcessAutomation\FileProcessAutomation.Common\obj\Debug\FileProcessAutomation.Common.csproj.CoreCompileInputs.cache
+C:\Arul\Source\FileProcessAutomation\FileProcessAutomation.Common\obj\Debug\FileProcessAutomation.Common.dll
+C:\Arul\Source\FileProcessAutomation\FileProcessAutomation.Common\obj\Debug\FileProcessAutomation.Common.pdb

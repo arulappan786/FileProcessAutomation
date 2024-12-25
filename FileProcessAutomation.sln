@@ -1,0 +1,72 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileProcessAutomation.UI", "FileProcessAutomation.UI\FileProcessAutomation.UI.csproj", "{2D6C47DF-7CD1-485C-B7BF-6ED0B53269EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileProcessAutomation.Common", "FileProcessAutomation.Common\FileProcessAutomation.Common.csproj", "{5EB5637D-DD4A-41F9-91AC-DF9A338866B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileProcessAutomation.FileHandlerService", "FileProcessAutomation.FileHandlerService\FileProcessAutomation.FileHandlerService.csproj", "{953B3B8F-3A68-443E-BEB9-D339A4ED44E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileProcessAutomation.JobHandlerService", "FileProcessAutomation.JobHandlerService\FileProcessAutomation.JobHandlerService.csproj", "{EF5BB5BB-C58A-4F5E-9260-59D1BD4B40B3}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "FileProcessAutomation.Database", "FileProcessAutomation.Database\FileProcessAutomation.Database.sqlproj", "{B45AC0F9-09CC-4B74-A5E8-88436AC3D10C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D6C47DF-7CD1-485C-B7BF-6ED0B53269EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D6C47DF-7CD1-485C-B7BF-6ED0B53269EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D6C47DF-7CD1-485C-B7BF-6ED0B53269EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D6C47DF-7CD1-485C-B7BF-6ED0B53269EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EB5637D-DD4A-41F9-91AC-DF9A338866B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EB5637D-DD4A-41F9-91AC-DF9A338866B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EB5637D-DD4A-41F9-91AC-DF9A338866B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EB5637D-DD4A-41F9-91AC-DF9A338866B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{953B3B8F-3A68-443E-BEB9-D339A4ED44E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{953B3B8F-3A68-443E-BEB9-D339A4ED44E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{953B3B8F-3A68-443E-BEB9-D339A4ED44E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{953B3B8F-3A68-443E-BEB9-D339A4ED44E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF5BB5BB-C58A-4F5E-9260-59D1BD4B40B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF5BB5BB-C58A-4F5E-9260-59D1BD4B40B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF5BB5BB-C58A-4F5E-9260-59D1BD4B40B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF5BB5BB-C58A-4F5E-9260-59D1BD4B40B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B45AC0F9-09CC-4B74-A5E8-88436AC3D10C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B45AC0F9-09CC-4B74-A5E8-88436AC3D10C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B45AC0F9-09CC-4B74-A5E8-88436AC3D10C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B45AC0F9-09CC-4B74-A5E8-88436AC3D10C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B45AC0F9-09CC-4B74-A5E8-88436AC3D10C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B45AC0F9-09CC-4B74-A5E8-88436AC3D10C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {748B86AE-FB62-4090-AF9C-04F0EA96D792}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://arulraya786.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = FileProcessAutomation.UI\\FileProcessAutomation.UI.csproj
+		SccProjectName1 = FileProcessAutomation.UI
+		SccLocalPath1 = FileProcessAutomation.UI
+		SccProjectUniqueName2 = FileProcessAutomation.Common\\FileProcessAutomation.Common.csproj
+		SccProjectName2 = FileProcessAutomation.Common
+		SccLocalPath2 = FileProcessAutomation.Common
+		SccProjectUniqueName3 = FileProcessAutomation.FileHandlerService\\FileProcessAutomation.FileHandlerService.csproj
+		SccProjectName3 = FileProcessAutomation.FileHandlerService
+		SccLocalPath3 = FileProcessAutomation.FileHandlerService
+		SccProjectUniqueName4 = FileProcessAutomation.JobHandlerService\\FileProcessAutomation.JobHandlerService.csproj
+		SccProjectName4 = FileProcessAutomation.JobHandlerService
+		SccLocalPath4 = FileProcessAutomation.JobHandlerService
+		SccProjectUniqueName5 = FileProcessAutomation.Database\\FileProcessAutomation.Database.sqlproj
+		SccProjectName5 = FileProcessAutomation.Database
+		SccLocalPath5 = FileProcessAutomation.Database
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\Arul\Source\FileProcessAutomation\FileProcessAutomation.JobHandlerService\bin\Debug\FileProcessAutomation.JobHandlerService.exe.config
+C:\Arul\Source\FileProcessAutomation\FileProcessAutomation.JobHandlerService\bin\Debug\FileProcessAutomation.JobHandlerService.exe
+C:\Arul\Source\FileProcessAutomation\FileProcessAutomation.JobHandlerService\bin\Debug\FileProcessAutomation.JobHandlerService.pdb
+C:\Arul\Source\FileProcessAutomation\FileProcessAutomation.JobHandlerService\obj\Debug\FileProcessAutomation.JobHandlerService.csproj.AssemblyReference.cache
+C:\Arul\Source\FileProcessAutomation\FileProcessAutomation.JobHandlerService\obj\Debug\FileProcessAutomation.JobHandlerService.ProjectInstaller.resources
+C:\Arul\Source\FileProcessAutomation\FileProcessAutomation.JobHandlerService\obj\Debug\FileProcessAutomation.JobHandlerService.csproj.GenerateResource.cache
+C:\Arul\Source\FileProcessAutomation\FileProcessAutomation.JobHandlerService\obj\Debug\FileProcessAutomation.JobHandlerService.csproj.CoreCompileInputs.cache
+C:\Arul\Source\FileProcessAutomation\FileProcessAutomation.JobHandlerService\obj\Debug\FileProcessAutomation.JobHandlerService.exe
+C:\Arul\Source\FileProcessAutomation\FileProcessAutomation.JobHandlerService\obj\Debug\FileProcessAutomation.JobHandlerService.pdb
